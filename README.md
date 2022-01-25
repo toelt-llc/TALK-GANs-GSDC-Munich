@@ -6,7 +6,7 @@ This repository contains the material for a Gentle Introduction to GANs. Here yo
 
 ## Main Content
 
-- [A Gentle Introduction to GANs (PDF)]() - A paper with a short introduction on the main idea about GANs
+- [A Gentle Introduction to GANs (PDF)](https://github.com/toelt-llc/GANs-TensorFlow/blob/main/docs/michelucci_GANs.pdf) - A paper with a short introduction on the main idea about GANs
 - Under [code](https://github.com/toelt-llc/GANs-TensorFlow/tree/main/code) you can find some examples.
 
 ## Complete Examples
