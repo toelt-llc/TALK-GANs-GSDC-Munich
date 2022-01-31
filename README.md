@@ -9,6 +9,10 @@ This repository contains the material for a Gentle Introduction to GANs. Here yo
 - [A Gentle Introduction to GANs (PDF)](https://github.com/toelt-llc/GANs-TensorFlow/blob/main/docs/michelucci_GANs.pdf) - A paper with a short introduction on the main idea about GANs
 - Under [code](https://github.com/toelt-llc/GANs-TensorFlow/tree/main/code) you can find some examples.
 
+# Lecture given at the Google Student Developer Group Munich
+
+[![Alt text](https://img.youtube.com/vi/qYazbpWN7U8/0.jpg)](https://www.youtube.com/embed/qYazbpWN7U8)
+
 ## Complete Examples
 
 In case you are interested, you can find compelte examples at [httsp://adl.toelt.ai](https://adl.toelt.ai). In particular you can
