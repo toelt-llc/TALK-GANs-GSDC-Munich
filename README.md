@@ -14,6 +14,10 @@ This repository contains the material for a Gentle Introduction to GANs. Here yo
 In case you are interested, you can find compelte examples at [httsp://adl.toelt.ai](https://adl.toelt.ai). In particular you can
 find the complete code for a generic GAN applied to MNIST [HERE](http://adl.toelt.ai/GAN/GAN_with_MNIST.html).
 
+# Slides
+
+You can find the slides in the [PDF file](https://github.com/toelt-llc/GANs-TensorFlow/blob/main/GANs_Introduction_Michelucci.pdf) that you can find in the root folder of the repository.
+
 # Code Folder
 
 In the code folder the following files are relevant:
